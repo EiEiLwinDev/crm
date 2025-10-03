@@ -5,9 +5,7 @@ A Customer Relationship Management (CRM) application built with the TALL stack: 
 
 ## 🚀 Features
 
--   **User Management:** Secure user registration, authentication, and roles.
--   **Company Management:** Create, view, and manage company records.
--   **Contact Management:** Track and manage contacts associated with companies.
+-   **User Management:** Secure user registration, authentication, and roles.  
 -   **Livewire Tables:** Fast and easy-to-use data tables powered by Rappasoft.
 -   **Modern UI:** A clean and responsive user interface built with Tailwind CSS.
 
